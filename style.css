@@ -1,6 +1,10 @@
-h1 {
-    font-size: 36px;
-    margin: 0;
-    color: blue;
 
-}
+.bi-bootstrap-fill {
+    color:  #7034d3;
+    font-size: 64px;
+ 
+ 
+ }
+ .container {
+     display: grid;
+ }
