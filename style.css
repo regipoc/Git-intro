@@ -1,10 +1,12 @@
 
 .bi-bootstrap-fill {
-    color:  #7034d3;
+    color:  #34d37b;
     font-size: 64px;
  
  
  }
  .container {
      display: grid;
+    
+    
  }
